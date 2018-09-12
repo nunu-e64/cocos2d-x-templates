@@ -6,10 +6,7 @@
 //___COPYRIGHT___
 //
 
-#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
-#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
-
-#include "cocos2d.h"
+#pragma once
 
 class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::___VARIABLE_cocos2dxSubclass___
 {
@@ -22,5 +19,3 @@ private:
     void onExit() override;
 
 };
-
-#endif /* defined(_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____) */
